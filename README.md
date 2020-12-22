@@ -31,6 +31,5 @@
 [![Ro3b_t7richa](r2.png)](https://www.youtube.com/watch?v=sy2wP4rz6gY "mathio.dz")
 
 ![Login](r5.png)
-![fea](r2.png)
 ![fea](R1.png)
 ![mod](r4.png)
