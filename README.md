@@ -7,8 +7,7 @@
 - Remote code execution * CMD - powershell *  
 - Stealer  - Credit Card # Password # Cookies 
   <details>
-	<summary><code>Browser supported based on chromeium : </code> </summary>- Chrome - Chromium <br> - Maxthon3 <br> - YandexBrowser<br> - Opera <br> - Sputnik <br> - Mail.Ru <br>  - Brave <br> - ChromePlus <br> - Iridium <br> - 7Star<br> - epicPrivacyBrowser<br> - CentBrowser<br> - ElementsBrowser<br> - Chedot<br> - Vivaldi<br> - Kometa<br> - uCozMedia<br> - Sleipnir5<br> - Citrio<br> - Coowon<br> - liebao<br> - QIP.Surf<br> - Orbitum<br> - Amigo<br> - Torch<br> - Comodo<br> - 360Browser<br> - Nichrome<br> - CocCoc<br> - Uran<br> - Chromodo<br> 
- </details>
+	<summary><code>Browser supported based on chromeium : </code> </summary>- Chrome - Chromium <br> - Maxthon3 <br> - YandexBrowser<br> - Opera <br> - Sputnik <br> - Mail.Ru <br>  - Brave <br> - ChromePlus <br> - Iridium <br> - 7Star<br> - epicPrivacyBrowser<br> - CentBrowser<br> - ElementsBrowser<br> - Chedot<br> - Vivaldi<br> - Kometa<br> - uCozMedia<br> - Sleipnir5<br> - Citrio<br> - Coowon<br> - liebao<br> - QIP.Surf<br> - Orbitum<br> - Amigo<br> - Torch<br> - Comodo<br> - 360Browser<br> - Nichrome<br> - CocCoc<br> - Uran<br> - Chromodo<br>  </details>
   <details>
 	<summary><code>Browser supported based on Firefox : </code> </summary> - Firefox <br> - Waterfox <br> - K-Meleon <br> - Thunderbird <br> - IceDragon <br> - Cyberfox <br> - BlackHaw <br> - PaleMoon 
 
