@@ -21,13 +21,13 @@
   <details>
 	<summary><code>Wallet supported  : </code> </summary>- Bitcoin<br>- Ethereum<br>- Monero<br>- Stellar<br>- Ripple<br>- Litecoin<br>- Neocoin<br>- Bitcoin Cash<br>- Bytecoin<br>- Cardano<br>- Graft<br>- Zcash<br>- Bitcoin Gold<br>- Waves<br>- ReddCoin<br>- BlackCoin<br>- Emercoin<br>- Stratis<br>- Qtum<br>- Viacoin<br>- Lisk<br>- Dogecoin<br>- Dashcoin<br><br>  </details>
 
-- Ransomware (encrypt files using AES  )
-- Advance Keylogger (send data Realtime )
+- Ransomware (encrypt files using AES256  )
+- Advance Keylogger (send data realtime )
 - Download file and execution
 - Autorun - Mutex - AntiVM - AntiScan
 
 ####  Video Demo :
 
-[![Everything Is AWESOME](https://i.ytimg.com/an_webp/sy2wP4rz6gY/mqdefault_6s.webp?du=3000&sqp=CPTt0_0F&rs=AOn4CLCylDBFw47OzMgpTQf7fTc1bq7LvQ)](https://www.youtube.com/watch?v=sy2wP4rz6gY "mathio.dz")
+[![Ro3b_t7richa](https://i.ytimg.com/an_webp/sy2wP4rz6gY/mqdefault_6s.webp?du=3000&sqp=CPTt0_0F&rs=AOn4CLCylDBFw47OzMgpTQf7fTc1bq7LvQ)](https://www.youtube.com/watch?v=sy2wP4rz6gY "mathio.dz")
 
 
