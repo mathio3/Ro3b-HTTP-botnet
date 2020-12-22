@@ -7,8 +7,38 @@
 - Remote code execution * CMD - powershell *  
 - Stealer all browser (Chrome - Edge - Firefox - iE  ... other ) :
   <details>
-	<summary><code>browser Supported : </code> </summary>
-	* Chrome <br> * Firefox
+	<summary><code>Browser supported based on chromeium : </code> </summary>
+    	- Chrome 
+- Chromium <br> 
+- Maxthon3 
+- YandexBrowser
+- Opera 
+- Sputnik 
+- Mail.Ru Brave";
+- ChromePlus 
+- Iridium 
+- 7Star
+		- epicPrivacyBrowser
+		- CentBrowser
+		- ElementsBrowser
+		- Chedot
+		- Vivaldi
+		- Kometa
+		- uCozMedia
+		- Sleipnir5
+		- Citrio
+		- Coowon
+		- liebao
+		- QIP.Surf
+		- Orbitum
+		- Amigo
+		- Torch
+		- Comodo
+		- 360Browser
+		- Nichrome
+		- CocCoc
+		- Uran
+		- Chromodo
   </details>
     - Credit Card  
     - Password 
