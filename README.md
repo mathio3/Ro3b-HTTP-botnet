@@ -6,6 +6,10 @@
 # Features : 
 - Remote code execution * CMD - powershell *  
 - Stealer all browser (Chrome - Edge - Firefox - iE  ... other ) :
+  <details>
+	<summary><code>browser Supported : </code> </summary>
+	* Chrome <br> * Firefox
+  </details>
     - Credit Card  
     - Password 
     - Cookies
