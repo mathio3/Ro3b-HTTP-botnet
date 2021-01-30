@@ -2,7 +2,7 @@
 ![](https://i.ibb.co/m0Gg7cV/logo.png)
 
 #### By mathio.dz
-#### Telgram : @machiana || Email : mathio.dz@pm.me
+#### Telgram : @machiana
 # Features : 
 - Remote code execution * CMD - powershell *  
 - Stealer  - Credit Card # Password # Cookies 
