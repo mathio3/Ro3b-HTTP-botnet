@@ -1,8 +1,12 @@
-# HTTP Botnet  Ro3b 
+# HTTP Banking Botnet Ro3b 
 ![](https://i.ibb.co/m0Gg7cV/logo.png)
 
 #### By mathio.dz
 #### Telgram : @machiana
+# Update : 2021 - 02 - 03
+#WebGrabbing :
+	# PayPal Email - Password 
+	# Grab credit card - cvv 
 # Features : 
 - Remote code execution * CMD - powershell *  
 - Stealer  - Credit Card # Password # Cookies 
