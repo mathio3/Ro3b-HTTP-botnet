@@ -3,6 +3,9 @@
 
 #### By mathio.dz
 #### Telgram : @machiana
+#### XMPP : machiana@conversations.im
+#### Discord : machiana@8470
+
 # Update : 2021 - 02 - 03
 # WebGrabbing :
 	# PayPal Email - Password 
