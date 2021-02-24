@@ -3,7 +3,7 @@
 
 #### By mathio.dz
 #### Telgram : @machiana
-#### XMPP : machiana@conversations.im
+#### XMPP : ro3b@conversations.im
 #### Discord : machiana@8470
 
 # Update : 2021 - 02 - 03
