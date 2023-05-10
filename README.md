@@ -8,7 +8,7 @@
 </p>
 
 #### By mathio.dz
-#### Telgram : @machiana
+#### Telgram : @machiana / mathio dz
 
 # Update : 2021 - 02 - 03
 # WebGrabbing :
